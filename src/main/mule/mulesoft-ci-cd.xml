@@ -17,7 +17,7 @@ output application/json
 ---
 {
 	"Time": now(),
-	"sampleText": "hello"
+	"sampleText": "hello BU"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
