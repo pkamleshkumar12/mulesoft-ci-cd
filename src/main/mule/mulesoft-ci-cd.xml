@@ -16,7 +16,8 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	"Time": now()
+	"Time": now(),
+	"sampleText": "hello"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
