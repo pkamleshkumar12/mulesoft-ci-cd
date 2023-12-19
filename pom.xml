@@ -34,7 +34,7 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.4.0</muleVersion>
 						<username>Mule-playground</username>
-						<password>Keyboard12@</password>
+						<password>${anypoint.password}</password>
 						<applicationName>Mulesoft-CICD-app</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
